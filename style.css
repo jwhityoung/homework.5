@@ -1,8 +1,8 @@
 body {
-    /* font-family: 'Open Sans', sans-serif; */
     font-size: 16px;
     line-height: 1;
     font-family: font-family: 'Poiret One', cursive;
+    background-color: #F0F0F0;
   }
   
   textarea{
@@ -17,11 +17,9 @@ body {
   .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: black;
-    border-radius: 0;
-    border-bottom: 10px solid #78C2AD;
+    /* border-radius: 0; */
+    border-bottom: 10px solid #F3969A;
     height: auto;
-    
   }
   
   .description{
@@ -46,7 +44,7 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: blue;
     color: white;
   }
   
@@ -83,6 +81,6 @@ body {
      padding-bottom: 0px;
   }
 
-  h1 {
-      font-size: 50px;
+  .add {
+      font-size: 30px;
   }
